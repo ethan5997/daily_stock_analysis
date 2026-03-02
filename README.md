@@ -294,11 +294,6 @@ python main.py
 > 有建议？欢迎 [提交 Issue](https://github.com/ZhuLinsen/daily_stock_analysis/issues)
 
 
----
-
-
-
----
 
 ## 🤝 贡献
 
